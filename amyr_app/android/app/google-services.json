@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111748375945",
+    "project_id": "amyr-application",
+    "storage_bucket": "amyr-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111748375945:android:6b344520e55148a59bed58",
+        "android_client_info": {
+          "package_name": "com.example.amyr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDz_8s1K1QzuybfQYIu3pcwLisBHNSf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

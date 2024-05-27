@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#4682B4"
+  color_dark: "#4682B4"
+  image: assets\logos\amyr_temp.png
+  image_dark: assets\logos\amyr_temp.png
+
+
+  android_12:
+    color: "#4682B4"
+    color_dark: "#4682B4"
+    image: assets\logos\amyr_temp.png
+    image_dark: assets\logos\amyr_temp.png
+
+  web: false
